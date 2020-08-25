@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hallo Spaceboy :rocket: Ground control to Atom Scott :atom:
 
-<!--
-**AtomScott/atomscott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+<a href="https://twitter.com/atomjamesscott">
+  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" />
+</a>  
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/atom-scott-810963128/">
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
+</a>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.kaggle.com/atomscott">
+  <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
+</a>  
+</div>
+
+<br>
+
+##### Solve sports with AI
+
+![Atom's github stats](https://github-readme-stats.vercel.app/api?username=atomscott&count_private=true&theme=tokyonight&show_icons=true)
+
+
