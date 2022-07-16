@@ -1,4 +1,6 @@
-### Hallo Spaceboy :rocket: Ground control to Atom Scott :atom:
+### Atom Scott
+
+![](https://komarev.com/ghpvc/?username=AtomScott)
 
 <div>
 <a href="https://twitter.com/atomjamesscott">
@@ -21,3 +23,4 @@
 ![Atom's github stats](https://github-readme-stats.vercel.app/api?username=atomscott&count_private=true&theme=tokyonight&show_icons=true)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtomScott&theme=tokyonight)]
