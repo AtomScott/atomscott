@@ -17,9 +17,3 @@
 </div>
 
 <br>
-
-##### Solve sports with AI
-
-![Atom's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=atomscott&count_private=true&theme=tokyonight&show_icons=true)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AtomScott&theme=tokyonight)
